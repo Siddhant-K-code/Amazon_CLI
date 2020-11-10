@@ -15,4 +15,6 @@ This NodeJS project uses an Amazon Scraper to make getting Amazon products easy 
 * View All Countries & Key Available 
 * View All Categories
 
+### [Run on Repl.it](https://repl.it/@SiddhantKcode/AmazonCLI)
+
 *I am in no way associated with Amazon, and this program is not an official Amazon project. Simply made for fun and only uses public data! I also don’t use any Amazon affiliation links, so I make no profit from this. Purely for Educational Purpose and You.*
